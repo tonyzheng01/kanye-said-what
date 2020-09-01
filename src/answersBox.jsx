@@ -2,14 +2,6 @@ import React, { Component } from "react";
 import { StyledAnswers } from "./styles/index.js";
 
 class AnswersBox extends Component {
-  shouldComponentUpdate(nextProps, nextState) {
-    if (nextProps.disabled) {
-      return false;
-    } else {
-      return true;
-    }
-  }
-
   render() {
     let answers = [];
     for (let i = 0; i < 4; i++) {
@@ -42,7 +34,10 @@ class AnswersBox extends Component {
       }
     }
 
-    answers = this.props.shuffle(answers);
+    if (!this.props.disabled) {
+      answers = this.props.shuffle(answers);
+    }
+
     return <StyledAnswers>{answers}</StyledAnswers>;
   }
 }

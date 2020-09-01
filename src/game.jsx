@@ -17,20 +17,20 @@ class Game extends Component {
       correct: 0,
       total: 0,
       feedback: Maybe,
-      disableButtons: "",
+      disableButtons: false,
     };
     this.handleCorrect = this.handleCorrect.bind(this);
     this.handleIncorrect = this.handleIncorrect.bind(this);
   }
 
   nextQuestion() {
-    this.setState({ disableButtons: "true" });
+    this.setState({ disableButtons: true });
     setTimeout(
       () =>
         this.setState({
           curr: this.state.curr + 1,
           feedback: Maybe,
-          disableButtons: "",
+          disableButtons: false,
         }),
       2000
     );
@@ -62,7 +62,7 @@ class Game extends Component {
 
       return (
         <StyledGame>
-          <img src={this.state.feedback} alt="Feedback Image"></img>
+          <img src={this.state.feedback} alt="Feedback Face"></img>
           <h1>
             Your Score: {this.state.correct}/{this.state.total}
           </h1>

@@ -2,7 +2,7 @@
   "name": "kanye-said-what",
   "version": "1.0.0",
   "private": true,
-  "homepag": "https://tonyzheng01.github.io/kanye-said-what",
+  "homepage": "https://tonyzheng01.github.io/kanye-said-what",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -18,9 +18,10 @@
     "build:css": "postcss src/assets/tailwind.css -o src/assets/styles.css",
     "watch:css": "postcss src/assets/tailwind.css -o src/assets/styles.css",
     "start": "npm run watch:css & react-scripts start",
-    "build": "npm run build:css react-scripts build",
+    "build": "npm run build:css & react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"

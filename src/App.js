@@ -3,7 +3,7 @@ import StartScreen from "./startScreen";
 import Game from "./game";
 
 import Papa from "papaparse";
-import lyrics from "./lyrics_test.csv";
+import lyrics from "./lyrics.csv";
 
 class App extends Component {
   constructor() {
