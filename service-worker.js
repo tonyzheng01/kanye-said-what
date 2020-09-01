@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kanye-said-what/precache-manifest.f85b9ee548071326bb039f35dcf8e8d9.js"
+  "/kanye-said-what/precache-manifest.ecd29466f85e990863e7e7c70ffd559a.js"
 );
 
 self.addEventListener('message', (event) => {

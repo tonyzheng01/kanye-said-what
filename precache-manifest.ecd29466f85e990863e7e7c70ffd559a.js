@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "00eae9f8c3ef106baddfd845369b6d82",
+    "revision": "e082670b5a7b77ed974744aadf007a0b",
     "url": "/kanye-said-what/index.html"
   },
   {
@@ -8,12 +8,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kanye-said-what/static/css/main.21197044.chunk.css"
   },
   {
-    "revision": "944452ab8cf26a4896e6",
-    "url": "/kanye-said-what/static/js/2.8889cb55.chunk.js"
+    "revision": "687ba6ee4c68a5235c39",
+    "url": "/kanye-said-what/static/js/2.35329fad.chunk.js"
   },
   {
     "revision": "a5a4149a938b394962bf238e6c1aaf1a",
-    "url": "/kanye-said-what/static/js/2.8889cb55.chunk.js.LICENSE.txt"
+    "url": "/kanye-said-what/static/js/2.35329fad.chunk.js.LICENSE.txt"
   },
   {
     "revision": "a809cb4ff378769dc106",
