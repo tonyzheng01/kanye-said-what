@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/kanye-said-what/static/css/main.21197044.chunk.css",
-    "main.js": "/kanye-said-what/static/js/main.7945de98.chunk.js",
-    "main.js.map": "/kanye-said-what/static/js/main.7945de98.chunk.js.map",
+    "main.js": "/kanye-said-what/static/js/main.60f1ed11.chunk.js",
+    "main.js.map": "/kanye-said-what/static/js/main.60f1ed11.chunk.js.map",
     "runtime-main.js": "/kanye-said-what/static/js/runtime-main.0255550e.js",
     "runtime-main.js.map": "/kanye-said-what/static/js/runtime-main.0255550e.js.map",
-    "static/js/2.35329fad.chunk.js": "/kanye-said-what/static/js/2.35329fad.chunk.js",
-    "static/js/2.35329fad.chunk.js.map": "/kanye-said-what/static/js/2.35329fad.chunk.js.map",
+    "static/js/2.552905a1.chunk.js": "/kanye-said-what/static/js/2.552905a1.chunk.js",
+    "static/js/2.552905a1.chunk.js.map": "/kanye-said-what/static/js/2.552905a1.chunk.js.map",
     "index.html": "/kanye-said-what/index.html",
-    "precache-manifest.ecd29466f85e990863e7e7c70ffd559a.js": "/kanye-said-what/precache-manifest.ecd29466f85e990863e7e7c70ffd559a.js",
+    "precache-manifest.90e958868530bfc0d19374294cb3c6ba.js": "/kanye-said-what/precache-manifest.90e958868530bfc0d19374294cb3c6ba.js",
     "service-worker.js": "/kanye-said-what/service-worker.js",
     "static/css/main.21197044.chunk.css.map": "/kanye-said-what/static/css/main.21197044.chunk.css.map",
-    "static/js/2.35329fad.chunk.js.LICENSE.txt": "/kanye-said-what/static/js/2.35329fad.chunk.js.LICENSE.txt",
+    "static/js/2.552905a1.chunk.js.LICENSE.txt": "/kanye-said-what/static/js/2.552905a1.chunk.js.LICENSE.txt",
     "static/media/face.png": "/kanye-said-what/static/media/face.0a6d06fd.png",
     "static/media/lyrics.csv": "/kanye-said-what/static/media/lyrics.f9007ffe.csv",
     "static/media/maybe.jpg": "/kanye-said-what/static/media/maybe.badbb7ef.jpg",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0255550e.js",
-    "static/js/2.35329fad.chunk.js",
+    "static/js/2.552905a1.chunk.js",
     "static/css/main.21197044.chunk.css",
-    "static/js/main.7945de98.chunk.js"
+    "static/js/main.60f1ed11.chunk.js"
   ]
 }
