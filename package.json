@@ -2,7 +2,7 @@
   "name": "kanye-said-what",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://tonyzheng01.github.io/kanye-said-what",
+  "homepage": "https://tonyzheng01.github.io/kanye-said-what/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",

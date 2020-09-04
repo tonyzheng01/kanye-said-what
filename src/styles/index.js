@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled from "styled-components/macro";
 import tw from "twin.macro";
 
 const StartStyle = styled.div.attrs({
@@ -6,13 +6,10 @@ const StartStyle = styled.div.attrs({
     "w-screen h-screen flex flex-col justify-center items-center bg-gray-900 px-64 pb-5",
 })`
   & {
-    @import url("https://fonts.googleapis.com/css2?family=Sedgwick+Ave+Display&display=swap");
     h1 {
       ${tw`text-black text-6xl`}
       font-family: 'Sedgwick Ave Display', cursive;
     }
-    @import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
-    @import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap");
     p {
       ${tw`text-white text-xl text-center bg-blue-900 rounded p-2`}
       font-family: 'Roboto Condensed', sans-serif;

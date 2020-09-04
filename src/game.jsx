@@ -18,6 +18,7 @@ class Game extends Component {
       total: 0,
       feedback: Maybe,
       disableButtons: false,
+      random_order: this.props.shuffle([0, 1, 2, 3]),
     };
     this.handleCorrect = this.handleCorrect.bind(this);
     this.handleIncorrect = this.handleIncorrect.bind(this);
@@ -31,6 +32,7 @@ class Game extends Component {
           curr: this.state.curr + 1,
           feedback: Maybe,
           disableButtons: false,
+          random_order: this.props.shuffle([0, 1, 2, 3]),
         }),
       2000
     );
@@ -74,6 +76,7 @@ class Game extends Component {
           <AnswersBox
             all_ans={all_ans}
             shuffle={this.props.shuffle}
+            order={this.state.random_order}
             onCorrect={this.handleCorrect}
             onIncorrect={this.handleIncorrect}
             disabled={this.state.disableButtons}
