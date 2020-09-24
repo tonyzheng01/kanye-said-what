@@ -3,6 +3,9 @@ https://tonyzheng01.github.io/kanye-said-what/
 # What is this?
 This is a game I, Tony Zheng, created. I selected one line from every song on every solo Kanye West album and blanked out some of the words. Try to guess what Kanye said.
 
+# What did you use to make this?
+React, JavaScript, Tailwind CSS, Styled Components
+
 # What albums?
 1. The College Dropout
 2. Late Registration
