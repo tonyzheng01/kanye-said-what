@@ -21,7 +21,10 @@ Notably, albums that are left off are: Cruel Summer, Watch the Throne, and Kids 
 I love those albums, but they're collab albums.
 
 # What's the easter egg?
-Play it and find out.
+Play it and find out. Or look through the code. Whichever you find more fun.
+
+# Who has the highest score?
+Me.
 
 # TODO (maybe?)
 1. Make it mobile friendly
