@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/kanye-said-what/static/css/main.21197044.chunk.css",
-    "main.js": "/kanye-said-what/static/js/main.15c6eea7.chunk.js",
-    "main.js.map": "/kanye-said-what/static/js/main.15c6eea7.chunk.js.map",
+    "main.js": "/kanye-said-what/static/js/main.b436daf9.chunk.js",
+    "main.js.map": "/kanye-said-what/static/js/main.b436daf9.chunk.js.map",
     "runtime-main.js": "/kanye-said-what/static/js/runtime-main.0255550e.js",
     "runtime-main.js.map": "/kanye-said-what/static/js/runtime-main.0255550e.js.map",
     "static/js/2.f9da00c4.chunk.js": "/kanye-said-what/static/js/2.f9da00c4.chunk.js",
     "static/js/2.f9da00c4.chunk.js.map": "/kanye-said-what/static/js/2.f9da00c4.chunk.js.map",
     "index.html": "/kanye-said-what/index.html",
-    "precache-manifest.5a610643f614183ae7c2d973386b1bdc.js": "/kanye-said-what/precache-manifest.5a610643f614183ae7c2d973386b1bdc.js",
+    "precache-manifest.af86410fdb13099fbfc6057bcd325913.js": "/kanye-said-what/precache-manifest.af86410fdb13099fbfc6057bcd325913.js",
     "service-worker.js": "/kanye-said-what/service-worker.js",
     "static/css/main.21197044.chunk.css.map": "/kanye-said-what/static/css/main.21197044.chunk.css.map",
     "static/js/2.f9da00c4.chunk.js.LICENSE.txt": "/kanye-said-what/static/js/2.f9da00c4.chunk.js.LICENSE.txt",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.0255550e.js",
     "static/js/2.f9da00c4.chunk.js",
     "static/css/main.21197044.chunk.css",
-    "static/js/main.15c6eea7.chunk.js"
+    "static/js/main.b436daf9.chunk.js"
   ]
 }
