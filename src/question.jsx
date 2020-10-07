@@ -17,7 +17,7 @@ const Question = (props) => {
     <div>
       <h1>
         On the song <span>{props.song}</span>, off the album
-        <span>{album_map[props.album]}</span>
+        <span> {album_map[props.album]}</span>
       </h1>
       <h1>Kanye West said...</h1>
       <h2>"{props.question.replace(/\*/g, "________")}"</h2>
